@@ -41,3 +41,12 @@ I am continuously expanding my knowledge in areas like NLP, deep learning, and d
 | **Power BI Dashboard** | Developed an interactive Power BI dashboard to visualize key business metrics and aid in decision-making. | [Power BI Dashboard](https://github.com/codewithhusan/Healthcare-Dashboard-PowerBI) |
 | **Data Normalization Project** | Focused on normalizing large datasets and improving data integrity, transferred into relational databases for optimization. | [Data Normalization Project](https://github.com/codewithhusan/Database-Normalization-project) |
 | **Machine Learning - Iris Dataset** | Built a classification model to predict iris flower species using supervised learning techniques. | [Iris ML Model](https://github.com/codewithhusan/Iris-Flower-Classification-ML-Project)
+
+# 🎯 Goals
+- Obtain a Data Science or Business Analyst Co-op position to gain hands-on industry experience.
+- Continue developing AI systems that are aligned with human values and societal norms.
+- Expand my knowledge of data science tools and techniques through courses and real-world projects.
+
+# 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/husandeep-kaur-9155122b8/)
+- [Email](123husandeepkaur@gmail.com)
