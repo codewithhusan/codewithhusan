@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gagandeep Singh
+# Husandeep Kaur
 ## Aspiring Data Scientist & Machine Learning Innovator | RRC Polytech Student
 
 </div> 
