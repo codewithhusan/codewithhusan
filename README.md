@@ -9,33 +9,33 @@ I’m a passionate Data Science and Machine Learning student currently in my 3rd
 
 I am continuously expanding my knowledge in areas like NLP, deep learning, and data architecture, and I love applying these skills to real-world problems. I aim to create meaningful impact through every project, bridging the gap between data and decision-making.
 
-<div align="center">
+
 # 💻 What I’m Working On
-</div> 
+
 - Building Natural Language Processing (NLP) models like **CNNs, RNNs, LSTMs** in neural networks to enhance language understanding and processing.
 - A chatbot for answering student questions related to RRC programs using **LLaMA** or Microsoft-based models.
 - Creating a high-level block diagram and logical data model as part of Information and Data Architecture coursework.
 - Building models to predict outcomes based on specific datasets, like species classification and other machine learning tasks.
 
-<div align="center">
+
 # 🛠️ Tech Stack
-</div> 
+
 - **Languages**: Python, SQL, NoSQL
 - **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Langchain
 - **Data Visualization**: Power BI, Matplotlib, Seaborn
 - **Tools**: Git, Jupyter Notebooks, Jupyter Lab, VS Code, Google Colab
 - **Cloud Platforms**: Familiarity with AWS, Google Cloud, or Azure for data storage and processing
 
-<div align="center">
+
 # 🌱 What I’m Learning
-</div> 
+
 - More advanced machine learning techniques and their ethical considerations.
 - Building stronger communication and teamwork skills through collaborative projects.
 - Deepening my knowledge of Power BI for data visualization and Git for version control.
 
-<div align="center">
+
 # 🌟 Projects
-</div> 
+
 | **Project** | **Description** | **Links** |
 |-------------|-----------------|-----------|
 | **Power BI Dashboard** | Developed an interactive Power BI dashboard to visualize key business metrics and aid in decision-making. | [Power BI Dashboard](https://github.com/codewithhusan/Healthcare-Dashboard-PowerBI) |
