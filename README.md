@@ -40,7 +40,8 @@ I am continuously expanding my knowledge in areas like NLP, deep learning, and d
 |-------------|-----------------|-----------|
 | **Power BI Dashboard** | Developed an interactive Power BI dashboard to visualize key business metrics and aid in decision-making. | [Power BI Dashboard](https://github.com/codewithhusan/Healthcare-Dashboard-PowerBI) |
 | **Data Normalization Project** | Focused on normalizing large datasets and improving data integrity, transferred into relational databases for optimization. | [Data Normalization Project](https://github.com/codewithhusan/Database-Normalization-project) |
-| **Machine Learning - Iris Dataset** | Built a classification model to predict iris flower species using supervised learning techniques. | [Iris ML Model](https://github.com/codewithhusan/Iris-Flower-Classification-ML-Project)
+| **Machine Learning - Iris Dataset** | Built a classification model to predict iris flower species using supervised learning techniques. | [Iris ML Model](https://github.com/codewithhusan/Iris-Flower-Classification-ML-Project) |
+| **Word2Vec-GloVe-Comparison** | This project examines the effectiveness of various word embedding models—CBOW, Skip-Gram, and GloVe on a cleaned corpus of Shakespeare’s works. | [Word Embedding Models](https://github.com/codewithhusan/Word2Vec-GloVe-Comparison)
 
 # 🎯 Goals
 - Obtain a Data Science or Business Analyst Co-op position to gain hands-on industry experience.
