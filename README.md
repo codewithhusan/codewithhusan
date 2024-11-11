@@ -43,6 +43,13 @@ I am continuously expanding my knowledge in areas like NLP, deep learning, and d
 | **Machine Learning - Iris Dataset** | Built a classification model to predict iris flower species using supervised learning techniques. | [Iris ML Model](https://github.com/codewithhusan/Iris-Flower-Classification-ML-Project) |
 | **Word2Vec-GloVe-Comparison** | This project examines the effectiveness of various word embedding models—CBOW, Skip-Gram, and GloVe on a cleaned corpus of Shakespeare’s works. | [Word Embedding Models](https://github.com/codewithhusan/Word2Vec-GloVe-Comparison)
 
+# 📜 Certifications
+
+| **Certification**                          | **Issuer**         | **Completion Date**     | **Certificate ID**                                                |
+|--------------------------------------------|--------------------|-------------------------|-------------------------------------------------------------------|
+| Git Essential Training: The Basics (2019)  | LinkedIn Learning  | November 11, 2024       | [Git Essential Training](https://www.linkedin.com/feed/update/urn:li:activity:7261596224015790081/)  |
+| MongoDB Course                             | MongoDB University | April 15, 2024          | [MongoDB Course](https://www.linkedin.com/in/husandeep-kaur-9155122b8/recent-activity/all/)                           |
+
 # 🎯 Goals
 - Obtain a Data Science or Business Analyst Co-op position to gain hands-on industry experience.
 - Continue developing AI systems that are aligned with human values and societal norms.
